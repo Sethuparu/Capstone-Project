@@ -1,3 +1,4 @@
+
 # Thermal-Aware Power Budgeting on a Silicon Die
 
 ### A PDE-Constrained Linear Programming Approach
